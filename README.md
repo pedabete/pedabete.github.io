@@ -1,5 +1,5 @@
 # Site Pé da Bete
-Aqui será o site do aplicativo PedaBete. Um aplicativo para paciente com Diabetes que mostra de forma interativa faz uma edcação continua dos cuidados necessários.
+Aqui será o site do aplicativo PedaBete. Um aplicativo para pacientes com Diabetes que mostra de forma interativa e legal  através de uma edcação continua os cuidados necessários com o pés.
 
 
 ## Tecnologias Utilizadas 
